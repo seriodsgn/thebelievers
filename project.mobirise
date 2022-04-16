@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "youthhelp.html",
     "theme": {
       "name": "therapym4",
       "title": "TherapyM4",
@@ -57,7 +57,7 @@
     "uniqCompNum": 31,
     "versionPublish": "5.6.5",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
