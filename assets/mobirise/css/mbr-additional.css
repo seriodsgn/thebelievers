@@ -2971,6 +2971,69 @@ a {
   margin-left: auto;
   margin-right: auto;
 }
+.cid-t4RefyODkL {
+  padding-top: 150px;
+  padding-bottom: 150px;
+  background-image: url("../../../assets/images/02.jpg");
+}
+.cid-t4RefyODkL H4 {
+  color: #ffffff;
+}
+.cid-t4RduEuPyZ {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background-color: #ffffff;
+}
+.cid-t4RduEuPyZ .mbr-iconfont {
+  font-size: 3rem;
+  color: #200960;
+  margin-right: 1.5rem;
+  width: 100px;
+  height: 100px;
+  min-width: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+@media (min-width: 1400px) {
+  .cid-t4RduEuPyZ .card-wrapper {
+    padding: 0 2rem;
+  }
+}
+.cid-t4RduEuPyZ .card {
+  border-radius: 0;
+  width: 100%;
+}
+.cid-t4RduEuPyZ .card2 {
+  border-right: 1px solid #f6f3ee;
+}
+.cid-t4RduEuPyZ .card3 {
+  border-right: 1px solid #f6f3ee;
+}
+.cid-t4RduEuPyZ .card1 {
+  border-right: 1px solid #f6f3ee;
+}
+.cid-t4RduEuPyZ h4 {
+  margin: 0;
+}
+.cid-t4RduEuPyZ .card-text {
+  color: #000000;
+  text-align: center;
+}
+.cid-t4RduEuPyZ .mbr-text {
+  color: #200960;
+}
+.cid-t4RduEuPyZ .card-title {
+  color: #200960;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .cid-t4RduEuPyZ .card {
+    border: 0px;
+    margin-bottom: 2rem;
+  }
+}
 .cid-t2Lfvapyoe {
   padding-top: 105px;
   padding-bottom: 105px;
